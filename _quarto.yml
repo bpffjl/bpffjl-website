@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+      - text: "Home"
+        file: about.qmd
+      - text: Blog
+        file: blog.qmd
+      - text: Poems
+        file: poems.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
