@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   navbar:
@@ -19,4 +20,3 @@ format:
     toc: true
 
 editor: visual
-
