@@ -12,6 +12,8 @@ website:
         file: blog.qmd
       - text: Poems
         file: poems.qmd
+  repo-url: https://github.com/bpffjl/bpffjl-website
+  repo-actions: [edit, issue]
 
 format:
   html:
