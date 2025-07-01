@@ -1,0 +1,10 @@
+---
+title: "Back at it"
+description: "Returning to the site"
+author: "Ben Jaques-Leslie"
+date: "2025"
+categories:
+  - update
+---
+
+I've been away from this site for a while, but I'm back for the time being. I'd like to post more regularly. Maybe the universe will keep me accountable.
