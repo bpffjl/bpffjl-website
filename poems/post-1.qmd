@@ -1,10 +1,16 @@
 ---
-title: "Post With Code"
-description: "Post description"
+title: "when the shower setting was wrong"
+description: "a poem about helping my son with the shower"
 author: "Ben Jaques-Leslie"
 date: "10/28/2023"
 categories:
-  - news
-  - code
-  - analysis
+  - awdl gywydd
 ---
+
+the shower beat down too hard
+
+in the yard, hot air, they played
+
+twist to fix the showerhead
+
+wash them, off to bed relayed
