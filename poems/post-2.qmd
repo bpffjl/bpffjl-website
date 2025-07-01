@@ -1,0 +1,18 @@
+---
+title: "first plane ride"
+description: "a poem about my son's first plane ride"
+author: "Ben Jaques-Leslie"
+date: "06/22/2025"
+categories:
+  - limerick
+---
+
+today Timmy takes his first airplane ride
+
+he looks out at the airfield, by my side
+
+as we race down the runway
+
+squealing and kicking, away
+
+we go up in the air, his grin so wide
