@@ -5,22 +5,24 @@ about:
   template: jolla
 ---
 
-This website belongs to Ben Jaques-Leslie. Ben is a husband and dad of three boys. He currently resides in Minneapolis, Minnesota. Ben is an data scientist and evaluator who has worked in international development, public assistance, and public sector workforce.
+This website belongs to Ben Jaques-Leslie. Ben is a husband and dad of three boys, living in Minneapolis, Minnesota. He is a data scientist and evaluator whose career has spanned international development, federal workforce programs, public assistance, and state government. He is currently a Results Coordinator at Minnesota Management and Budget, where he works at the intersection of program evaluation and performance management.
 
 ## Education
 
-University of California, San Diego \| San Diego, CA MPIA in International Development \| Sept 2008 - June 2010
+**University of California, San Diego** | San Diego, CA\
+MPIA in International Development | 2008 – 2010
 
-University of North Carolina \| Chapel Hill, NC B.S. in Mathematics \| Sept 2000 - December 2002
+**University of North Carolina** | Chapel Hill, NC\
+B.S. in Mathematics | 2000 – 2002
 
 ## Experience
 
-Minnesota Management and Budget \| Results Coordinator \| May 2025 - Present
+**Minnesota Management and Budget** | Results Coordinator | May 2025 – Present
 
-US Office of Personnel Management \| Program Evaluator \| November 2023 - February 2025
+**US Office of Personnel Management** | Program Evaluator | November 2023 – February 2025
 
-US General Services Administration \| Data Scientist \| November 2022 - September 2023
+**US General Services Administration** | Data Scientist | November 2022 – September 2023
 
-Minnesota Department of Human Services \| Research Scientist \| August 2016 - November 2023
+**Minnesota Department of Human Services** | Research Scientist | August 2016 – November 2023
 
-Abdul Latif Jameel Poverty Action Lab at MIT \| Senior Research and Training Manager \| June 2010 - July 2016
+**Abdul Latif Jameel Poverty Action Lab at MIT** | Senior Research and Training Manager | June 2010 – July 2016

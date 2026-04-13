@@ -1,1 +1,76 @@
-/* css styles */
+/* === Color palette ===
+   Primary:   #5c35a0  (deep violet)
+   Dark:      #3d2270  (darker violet, navbar)
+   Accent:    #e8a020  (warm amber)
+*/
+
+/* --- Navbar --- */
+.navbar {
+  background-color: #3d2270 !important;
+}
+.navbar-brand, .navbar .nav-link {
+  color: #f5f0ff !important;
+}
+.navbar .nav-link:hover, .navbar .nav-link.active {
+  color: #e8a020 !important;
+}
+
+/* --- Headings --- */
+h1, h2, h3 {
+  color: #3d2270;
+}
+h1.title {
+  font-size: 2.2rem;
+  letter-spacing: -0.02em;
+}
+
+/* --- Links --- */
+a {
+  color: #5c35a0;
+  text-decoration: none;
+}
+a:hover {
+  color: #e8a020;
+  text-decoration: underline;
+}
+
+/* --- Listing cards (blog, poems) --- */
+.quarto-listing .card {
+  border: none;
+  border-left: 4px solid #5c35a0;
+  border-radius: 0.4rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.quarto-listing .card:hover {
+  box-shadow: 0 4px 18px rgba(92, 53, 160, 0.18);
+  transform: translateY(-2px);
+}
+
+/* --- Category badges --- */
+.quarto-category {
+  background-color: #5c35a0 !important;
+  color: #fff !important;
+  border-radius: 999px;
+  font-size: 0.75rem;
+}
+.quarto-category:hover {
+  background-color: #e8a020 !important;
+}
+
+/* --- About/jolla page --- */
+.quarto-about-jolla .about-image {
+  border: 4px solid #5c35a0;
+  border-radius: 50%;
+}
+
+/* --- Footer --- */
+.nav-footer {
+  border-top: 2px solid #e8a020;
+}
+
+/* --- Responsive --- */
+@media (max-width: 576px) {
+  h1.title {
+    font-size: 1.7rem;
+  }
+}

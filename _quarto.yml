@@ -5,13 +5,14 @@ project:
 website:
   navbar:
     left:
-      - href: index.qmd
       - text: "Home"
-        file: about.qmd
-      - text: Blog
-        file: blog.qmd
-      - text: Poems
-        file: poems.qmd
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Poems"
+        href: poems.qmd
     right:
       - icon: rss
         href: blog.xml

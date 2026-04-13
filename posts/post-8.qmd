@@ -1,0 +1,30 @@
+---
+title: "Catching Up"
+description: "A real update after a long absence"
+author: "Ben Jaques-Leslie"
+date: "2026-04-12"
+categories:
+  - update
+---
+
+I wrote a post last year called "Back at it" that was basically just me announcing I was going to post more. Then I didn't post more. This is the other version of that post — one where I actually tell you what's been going on.
+
+## The job
+
+In May of 2025 I started as a Results Coordinator at [Minnesota Management and Budget](https://mn.gov/mmb/). MMB is the central budget and operations agency for Minnesota state government, and the Results work sits inside that — it's about helping state agencies use data and evaluation to understand what's working, what isn't, and what to do next.
+
+I spent the previous stretch at the US Office of Personnel Management doing program evaluation for federal workforce programs. Before that, a year at GSA as a data scientist. Before that, seven years at Minnesota DHS. I've moved around more than I expected to when I started out, but the through-line has always been: government programs that are supposed to help people — are they actually helping people?
+
+MMB feels like a good landing spot for now. I get to work across a wide range of state programs rather than being deep in one. And I'm back in Minnesota, which matters.
+
+## Minneapolis and family
+
+We're still in Minneapolis. The boys are getting bigger faster than seems physically possible. The oldest is deep into baseball season right now. The middle one is currently very interested in birds. The youngest is three and primarily interested in chaos.
+
+Minneapolis in April is that particular kind of hopeful where you can almost see the trees about to do something. People are out. The good coffee shops are filling up again.
+
+## What this site is for
+
+I've been thinking about what I want to use this space for. Mostly I think it's just: things I notice that I want to write down. Coffee shop dispatches. The occasional poem. Probably some writing about evaluation and data work when I have something worth saying.
+
+I'm not going to promise a posting schedule. But I am back, for real this time.

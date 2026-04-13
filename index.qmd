@@ -1,17 +1,14 @@
 ---
 title: "Ben Jaques-Leslie"
+toc: false
 ---
 
-Hi! Welcome to Ben Jaques-Leslie's website.
+Hi, I'm Ben. I'm a data scientist and program evaluator living in Minneapolis, Minnesota with my wife and three boys.
 
-On this site, you can find a blog about my work, my opinions about coffee shops, breweries, and other things. I'll also post my poems and other arts here. Also, I'll add my CV.
+By day I work at [Minnesota Management and Budget](https://mn.gov/mmb/) as a Results Coordinator — helping state government understand whether programs are working and what to do about it when they aren't. I've spent my career moving between research, evaluation, and data science across international development, federal agencies, and state government. The throughline has always been: *does this actually help people?*
+
+Outside of work I'm into specialty coffee, writing poetry, and finding good places to sit and think. I take the coffee seriously enough to have opinions about milk texture. The poetry is quieter — you can find it in the poems section.
+
+This site is where I put things I want to remember or share: coffee shop dispatches, occasional professional writing, and poems.
 
 ![Enjoying a coffee at Caffe Driade in Chapel Hill](images/71060202974__4C46D3F0-AFA0-47D3-A56C-A2796E78B87A.fullsizerender.JPG)
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
